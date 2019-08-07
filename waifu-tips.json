@@ -13,7 +13,7 @@
 		"text": ["你是不是不爱人家了呀，呜呜呜～", "要见见我的姐姐嘛？", "想要看我妹妹嘛？", "要切换看板娘吗？"]
 	}, {
 		"selector": "#waifu-tool .fa-street-view",
-		"text": ["喜欢换装 PLAY 吗？", "这次要扮演什么呢？", "变装！", "让我们看看接下来会发生什么！"]
+		"text": ["喜欢换装 PLAY 吗？", "这次要扮演什么呢？", "变身！", "让我们看看接下来会发生什么！"]
 	}, {
 		"selector": "#waifu-tool .fa-camera-retro",
 		"text": ["你要给我拍照呀？一二三～茄子～", "要不，我们来合影吧！", "保持微笑就好了～"]
@@ -67,7 +67,7 @@
 		"text": ["点击图片可以放大呢！"]
 	}, {
 		"selector": ".highlight-wrap, .gist",
-		"text": ["代码可以直接点击复制哟。", "GitHub！我是新手！", "PHP 是最好的语言！"]
+		"text": ["代码可以直接点击复制哟。", "GitHub！我是新手！", "PHP 是最好的语言！啪！"]
 	}, {
 		"selector": ".container a[href^='http'], .nav-link .nav-text",
 		"text": ["要去看看 <span style=\"color:#0099cc;\">{text}</span> 么？", "去 <span style=\"color:#0099cc;\">{text}</span> 逛逛吧。", "到 <span style=\"color:#0099cc;\">{text}</span> 看看吧。"]

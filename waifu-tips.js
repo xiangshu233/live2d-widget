@@ -6,7 +6,7 @@
 function loadWidget(waifuPath, apiPath) {
 	localStorage.removeItem("waifu-display");
 	sessionStorage.removeItem("waifu-text");
-	$("body").append(`<div id="waifu">
+	$("body").append(`<div id="waifu" style="bottom: -15px;left:2%;>
 			<div id="waifu-tips"></div>
 			<canvas id="live2d" width="300" height="300"></canvas>
 			<div id="waifu-tool">
