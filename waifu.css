@@ -13,8 +13,8 @@
 }
 #waifu {
 	position: fixed;
-	bottom: -1016px;
-	left: 3%;
+	bottom: -1000px;
+	left: 0;
 	z-index: 1;
 	line-height: 0;
 	transition: transform .3s ease-in-out;
@@ -51,6 +51,8 @@
 	cursor: -webkit-grab;
 	cursor: -o-grab;
 	cursor: -ms-grab;
+	left: 10%;
+	bottom: -20px;
 }
 #waifu #live2d:active {
 	cursor: grabbing;
